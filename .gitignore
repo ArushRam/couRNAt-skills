@@ -1,0 +1,31 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Slurm and job output
+slurm-*.out
+*.log
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Secrets
+.env
+*.pem
+*.key
