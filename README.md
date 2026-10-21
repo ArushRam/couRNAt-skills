@@ -1,4 +1,4 @@
-# comp-bio-skills
+# couRNAt-skills
 
 This repo holds Claude Code skills for common computational biology work, for example Slurm jobs on the school cluster. A skill is a folder with a `SKILL.md` file. The file tells Claude how and when to do one task.
 
